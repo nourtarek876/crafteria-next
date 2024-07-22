@@ -156,10 +156,10 @@ header{
   color: rgb(31, 31, 31);
   font-size: 15px;
 }
-.card-link {
+.cord-lenk {
   padding: 20px 10px;
 }
-.card-link a {
+.cord-lenk a {
   background: linear-gradient(131.4deg, #948979 18.36%, #dfd0b8 107.88%);
   box-shadow: 0px 4px 4px 0px #00000040;
   width: Fixed (74px) px;
@@ -175,7 +175,7 @@ header{
   font-weight: 600;
 }
 
-.card-link a:hover {
+.cord-lenk a:hover {
   background: #e0e0e0;
   color: #948979;
 }

@@ -21,7 +21,7 @@ const Landing = () => {
                     Nullam ac tristique nulla, at convallis quam. Integer
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
-                  <div className="card-link">
+                  <div className="cord-lenk">
                     <a href="/pro-two">See More</a>
                   </div>
                 </div>
@@ -34,7 +34,7 @@ const Landing = () => {
                     Nullam ac tristique nulla, at convallis quam. Integer
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
-                  <div className="card-link">
+                  <div className="cord-lenk">
                     <a href="/pro-one">See More</a>
                   </div>
                 </div>
@@ -47,7 +47,7 @@ const Landing = () => {
                     Nullam ac tristique nulla, at convallis quam. Integer
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
-                  <div className="card-link">
+                  <div className="cord-lenk">
                     <a href="/pro-one">See More</a>
                   </div>
                 </div>
@@ -64,7 +64,7 @@ const Landing = () => {
                     Nullam ac tristique nulla, at convallis quam. Integer
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
-                  <div className="card-link">
+                  <div className="cord-lenk">
                     <a href="/pro-one">See More</a>
                   </div>
                 </div>
@@ -77,7 +77,7 @@ const Landing = () => {
                     Nullam ac tristique nulla, at convallis quam. Integer
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
-                  <div className="card-link">
+                  <div className="cord-lenk">
                     <a href="/pro-one">See More</a>
                   </div>
                 </div>
@@ -90,7 +90,7 @@ const Landing = () => {
                     Nullam ac tristique nulla, at convallis quam. Integer
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
-                  <div className="card-link">
+                  <div className="cord-lenk">
                     <a href="/pro-one">See More</a>
                   </div>
                 </div>
