@@ -22,7 +22,7 @@ const Landing = () => {
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
                   <div className="cord-lenk">
-                   <h1><a href="/pro-two">See More</a></h1>
+                    <a href="/pro-two"><h1>See More</h1></a>
                   </div>
                 </div>
               </div>
@@ -35,7 +35,7 @@ const Landing = () => {
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
                   <div className="cord-lenk">
-                   <h1><a href="/pro-one">See More</a></h1>
+                    <a href="/pro-one"><h1>See More</h1></a>
                   </div>
                 </div>
               </div>
@@ -48,7 +48,7 @@ const Landing = () => {
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
                   <div className="cord-lenk">
-                   <h1><a href="/pro-one">See More</a></h1>
+                    <a href="/pro-one"><h1>See More</h1></a>
                   </div>
                 </div>
               </div>
@@ -65,7 +65,7 @@ const Landing = () => {
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
                   <div className="cord-lenk">
-                   <h1><a href="/pro-one">See More</a></h1>
+                    <a href="/pro-one"><h1>See More</h1></a>
                   </div>
                 </div>
               </div>
@@ -78,7 +78,7 @@ const Landing = () => {
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
                   <div className="cord-lenk">
-                   <h1><a href="/pro-one">See More</a></h1>
+                    <a href="/pro-one"><h1>See More</h1></a>
                   </div>
                 </div>
               </div>
@@ -91,7 +91,7 @@ const Landing = () => {
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
                   <div className="cord-lenk">
-                   <h1><a href="/pro-one">See More</a></h1>
+                    <a href="/pro-one"><h1>See More</h1></a>
                   </div>
                 </div>
               </div>

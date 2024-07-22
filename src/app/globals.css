@@ -160,10 +160,14 @@ header{
   padding: 20px 10px;
 }
 .cord-lenk a {
+
+}
+
+.cord-lenk h1{
   background: linear-gradient(131.4deg, #948979 18.36%, #dfd0b8 107.88%);
   box-shadow: 0px 4px 4px 0px #00000040;
-  width: Fixed (74px) px;
-  height: Fixed (26px) px;
+  width: fit-content;
+  height: Fixed 26px;
   top: 360px;
   left: 51px;
   padding: 8.75px 19.45px 8.75px 19.45px;
@@ -175,7 +179,7 @@ header{
   font-weight: 600;
 }
 
-.cord-lenk a:hover {
+.cord-lenk h1:hover {
   background: #e0e0e0;
   color: #948979;
 }
