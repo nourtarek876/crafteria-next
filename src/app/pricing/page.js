@@ -173,7 +173,6 @@ export default function Pri() {
         </div>
       </div>
      {/* end pricing */}
-     <Footer />
     </>
   );
 }

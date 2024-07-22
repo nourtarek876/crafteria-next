@@ -439,7 +439,7 @@ header{
   display: flex;
   flex-direction: column;
   border-radius: 0.25rem;
-  background-color: rgba(17, 24, 39, 1);
+  background-color: rgb(190, 190, 190);
   padding: 1.5rem;
 }
 
