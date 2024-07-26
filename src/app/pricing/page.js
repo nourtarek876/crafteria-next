@@ -59,7 +59,7 @@ export default function Pri() {
               </li>
             </ul>
             <button type="button" class="action">
-              <a href="/Contact">Get Contact</a>
+              <a href="/contact">Get Contact</a>
             </button>
           </div>
           <div class="card">
@@ -113,7 +113,7 @@ export default function Pri() {
               </li>
             </ul>
             <button type="button" class="action">
-              <a href="/Contact">Get Contact</a>
+              <a href="/contact">Get Contact</a>
             </button>
           </div>
           <div class="card">
@@ -167,7 +167,7 @@ export default function Pri() {
               </li>
             </ul>
             <button type="button" class="action">
-              <a href="/Contact">Get Contact</a>
+              <a href="/contact">Get Contact</a>
             </button>
           </div>
         </div>

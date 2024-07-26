@@ -20,8 +20,8 @@ export default function Special(){
                     Nullam ac tristique nulla, at convallis quam. Integer
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
-                  <div className="card-link">
-                    <a href="/User1">See More</a>
+                  <div className="cord-lenk">
+                    <a href="/pro-two"><h1>See More</h1></a>
                   </div>
                 </div>
               </div>
@@ -33,8 +33,8 @@ export default function Special(){
                     Nullam ac tristique nulla, at convallis quam. Integer
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
-                  <div className="card-link">
-                    <a href="/User2">See More</a>
+                  <div className="cord-lenk">
+                    <a href="/pro-one"><h1>See More</h1></a>
                   </div>
                 </div>
               </div>
@@ -46,8 +46,8 @@ export default function Special(){
                     Nullam ac tristique nulla, at convallis quam. Integer
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
-                  <div className="card-link">
-                    <a href="/User1">See More</a>
+                  <div className="cord-lenk">
+                    <a href="/pro-two"><h1>See More</h1></a>
                   </div>
                 </div>
               </div>
@@ -63,8 +63,8 @@ export default function Special(){
                     Nullam ac tristique nulla, at convallis quam. Integer
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
-                  <div className="card-link">
-                    <a href="/User1">See More</a>
+                  <div className="cord-lenk">
+                    <a href="/pro-one"><h1>See More</h1></a>
                   </div>
                 </div>
               </div>
@@ -76,8 +76,8 @@ export default function Special(){
                     Nullam ac tristique nulla, at convallis quam. Integer
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
-                  <div className="card-link">
-                    <a href="/User2">See More</a>
+                  <div className="cord-lenk">
+                    <a href="/pro-one"><h1>See More</h1></a>
                   </div>
                 </div>
               </div>
@@ -89,8 +89,8 @@ export default function Special(){
                     Nullam ac tristique nulla, at convallis quam. Integer
                     consectetur mi nec magna tristique, non lobortis.
                   </p>
-                  <div className="card-link">
-                    <a href="/User1">See More</a>
+                  <div className="cord-lenk">
+                    <a href="/pro-one"><h1>See More</h1></a>
                   </div>
                 </div>
               </div>
