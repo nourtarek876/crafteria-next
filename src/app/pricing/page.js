@@ -1,5 +1,7 @@
+"use client"
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
+
 
 export default function Pri() {
   return (
@@ -173,6 +175,7 @@ export default function Pri() {
         </div>
       </div>
      {/* end pricing */}
+     <Footer />
     </>
   );
 }
